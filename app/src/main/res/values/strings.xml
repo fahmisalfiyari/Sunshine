@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Sunshine</string>
+    <string name="hello_world">Today, June 24</string>
+    <string name="action_settings">Settings</string>
+    <string name="derajat1">21</string>
+    <string name="derajat2">8</string>
+    <string name="cuaca">Cloudy</string>
+
+</resources>
